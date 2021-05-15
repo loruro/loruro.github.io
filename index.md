@@ -1,7 +1,7 @@
 Hello!  
 This site contains my projects:
 * 2016
-  * [<img style="vertical-align: middle; margin: 5px;" src="images/thumbnails/RPi_Vibration_Measurement.jpg"> RPi Vibration Measurement (W.I.P.)](https://loruro.github.io/RPi_Vibration_Measurement/)
+  * [<img style="vertical-align: middle; margin: 5px;" src="images/thumbnails/RPi_Vibration_Measurement.png"> RPi Vibration Measurement](https://loruro.github.io/RPi_Vibration_Measurement/)
   * [<img style="vertical-align: middle; margin: 5px;" src="images/thumbnails/Zynq_FPGA_Median_Filter.jpg"> Zynq FPGA - Median Filter](https://loruro.github.io/Zynq_FPGA_Median_Filter/)
   * [<img style="vertical-align: middle; margin: 5px;" src="images/thumbnails/Barometer_STM32.jpg"> Barometer - STM32](https://loruro.github.io/Barometer_STM32/)
 * 2015
